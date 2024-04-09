@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BLCanoe\\source\\repos\\To-Do List Implementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE09C3A-9158-42DF-AE2F-A7704A533AA2}|To-Do List Implementation\\To-Do List Implementation.csproj|c:\\users\\blcanoe\\source\\repos\\to-do list implementation\\to-do list implementation\\application\\services\\todoitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE09C3A-9158-42DF-AE2F-A7704A533AA2}|To-Do List Implementation\\To-Do List Implementation.csproj|solutionrelative:to-do list implementation\\application\\services\\todoitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE09C3A-9158-42DF-AE2F-A7704A533AA2}|To-Do List Implementation\\To-Do List Implementation.csproj|c:\\users\\blcanoe\\source\\repos\\to-do list implementation\\to-do list implementation\\model\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE09C3A-9158-42DF-AE2F-A7704A533AA2}|To-Do List Implementation\\To-Do List Implementation.csproj|solutionrelative:to-do list implementation\\model\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE09C3A-9158-42DF-AE2F-A7704A533AA2}|To-Do List Implementation\\To-Do List Implementation.csproj|c:\\users\\blcanoe\\source\\repos\\to-do list implementation\\to-do list implementation\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE09C3A-9158-42DF-AE2F-A7704A533AA2}|To-Do List Implementation\\To-Do List Implementation.csproj|solutionrelative:to-do list implementation\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:986420969:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\BLCanoe\\source\\repos\\To-Do List Implementation\\To-Do List Implementation\\Model\\Entities\\TodoItem.cs",
+              "RelativeDocumentMoniker": "To-Do List Implementation\\Model\\Entities\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\BLCanoe\\source\\repos\\To-Do List Implementation\\To-Do List Implementation\\Model\\Entities\\TodoItem.cs",
+              "RelativeToolTip": "To-Do List Implementation\\Model\\Entities\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:33:08.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItemController.cs",
+              "DocumentMoniker": "C:\\Users\\BLCanoe\\source\\repos\\To-Do List Implementation\\To-Do List Implementation\\Controllers\\TodoItemController.cs",
+              "RelativeDocumentMoniker": "To-Do List Implementation\\Controllers\\TodoItemController.cs",
+              "ToolTip": "C:\\Users\\BLCanoe\\source\\repos\\To-Do List Implementation\\To-Do List Implementation\\Controllers\\TodoItemController.cs",
+              "RelativeToolTip": "To-Do List Implementation\\Controllers\\TodoItemController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:28:48.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemService.cs",
+              "DocumentMoniker": "C:\\Users\\BLCanoe\\source\\repos\\To-Do List Implementation\\To-Do List Implementation\\Application\\Services\\TodoItemService.cs",
+              "RelativeDocumentMoniker": "To-Do List Implementation\\Application\\Services\\TodoItemService.cs",
+              "ToolTip": "C:\\Users\\BLCanoe\\source\\repos\\To-Do List Implementation\\To-Do List Implementation\\Application\\Services\\TodoItemService.cs",
+              "RelativeToolTip": "To-Do List Implementation\\Application\\Services\\TodoItemService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:24:09.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
